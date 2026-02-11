@@ -1,4 +1,4 @@
-# 🌐 Ayush Dwivedi — Cybersecurity Portfolio
+# 🌐 Ayush Dwivedi — Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
